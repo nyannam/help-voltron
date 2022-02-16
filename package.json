@@ -1,0 +1,23 @@
+{
+  "name": "help-voltron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyannam/help-voltron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyannam/help-voltron/issues"
+  },
+  "homepage": "https://github.com/nyannam/help-voltron#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
